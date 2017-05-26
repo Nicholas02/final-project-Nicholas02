@@ -1,0 +1,101 @@
+.body{
+  background-image: url("images/shop.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.title{
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+table, th, td {
+   border: 1px solid black;
+border-collapse: collapse;
+height: 70px;
+}
+
+table {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    height: 50px;
+}
+.flavor{
+  background-color: #00024D;
+  color: #Ffffff;
+}
+.rank{
+  background-color: #00024D;
+  color:#ffffff;
+}
+.one{
+  background-color: #ADD3FF;
+  color:#000000;
+  text-align: center;
+}
+.two{
+  background-color: #ADD3FF;
+  color:#000000;
+  text-align: center;
+}
+.three{
+  background-color: #ADD3FF;
+  color:#000000;
+  text-align: center;
+}
+.four{
+  background-color: #ADD3FF;
+  color:#000000;
+text-align: center;
+}
+.five{
+  background-color: #ADD3FF;
+  color:#000000;
+  text-align: center;
+}
+.chocolate{
+  background-image: url("images/icecream/1.jpg");
+text-align:center;
+font-size 15px;
+border: 1px solid: #000000;
+color: #ffffff;
+font-weight: bold;
+}
+.mintchip{
+  background-image: url("images/icecream/2.jpg");
+text-align:center;
+font-size 15px;
+border: 1px solid: #000000;
+color: #000000;
+font-weight: bold;
+}
+.chocolatechipcookiedough{
+  background-image: url("images/icecream/3.jpg");
+text-align:center;
+font-size 15px;
+border: 1px solid: #000000;
+color: #000000;
+font-weight: bold;
+}
+.cookiesandcream{
+  background-image: url("images/icecream/4.jpg");
+text-align:center;
+font-size 15px;
+border: 1px solid: #000000;
+color: #000000;
+font-weight: bold;
+}
+.cakebatter{
+  background-image: url("images/icecream/5.jpg");
+text-align:center;
+font-size 15px;
+border: 1px solid: #000000;
+color: #000000;
+font-weight: bold;
+}
